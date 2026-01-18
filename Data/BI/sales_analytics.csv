@@ -1,0 +1,4 @@
+order_id,order_date,customer_name,city,product_name,category,amount
+1,2024-01-01,Rahul,MUMBAI,LAPTOP,ELECTRONICS,50000.0
+2,2024-01-02,Amit,PUNE,MOBILE,ELECTRONICS,20000.0
+3,2024-01-03,Sneha,NASHIK,TABLET,ELECTRONICS,15000.0
